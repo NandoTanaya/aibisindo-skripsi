@@ -1,0 +1,4 @@
+# Abaikan virtual environment dan cache
+venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,10 @@
+# Untuk Server API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Untuk AI & Pemrosesan Gambar
+
+scikit-learn
+joblib
+numpy
